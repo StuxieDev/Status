@@ -18,21 +18,21 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 <!-- githup:start -->
 <!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
 
-**No data yet** · [Live status page](https://status.stuxie.dev/)
+**Degraded performance** · [Live status page](https://status.stuxie.dev/)
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| | [StuxieDev](https://stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
-| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | No data | n/a | n/a | n/a | n/a |
-| Projects | [Projects](https://projects.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
-| Projects | [TIGHC](https://tighc.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
-| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
-| Projects | [TWRAR](https://twrar.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
-| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
-| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | No data | n/a | n/a | n/a | n/a |
-| StuxieDev Archives | [archives.ljdr.uk](https://archives.ljdr.uk/) | No data | n/a | n/a | n/a | n/a |
-| StuxieDev Archives | [archives.ridgwell.network](https://archives.ridgwell.network/) | No data | n/a | n/a | n/a | n/a |
-| Related | [RoboStux](https://status.robo.st/) | No data | n/a | n/a | n/a | n/a |
+| | [StuxieDev](https://stuxie.dev/) | Degraded | 100.00% | 100.00% | 100.00% | 11517 ms |
+| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 294 ms |
+| Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 238 ms |
+| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 248 ms |
+| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 226 ms |
+| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 248 ms |
+| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 548 ms |
+| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 100.00% | 100.00% | 674 ms |
+| StuxieDev Archives | [archives.ljdr.uk](https://archives.ljdr.uk/) | Degraded | 100.00% | 100.00% | 100.00% | 2415 ms |
+| StuxieDev Archives | [archives.ridgwell.network](https://archives.ridgwell.network/) | Degraded | 100.00% | 100.00% | 100.00% | 2459 ms |
+| Related | [RoboStux](https://status.robo.st/) | Up | 100.00% | 100.00% | 100.00% | 298 ms |
 <!-- githup:end -->
 
 ## What's monitored
