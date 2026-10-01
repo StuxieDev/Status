@@ -3,6 +3,12 @@
 All notable changes to StuxieDev's status page (status.stuxie.dev) are documented here. It
 follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.0.2
+
+### Changed
+
+- The Related section no longer monitors RoboStux: it now links to the RoboStux website (robo.st) and RoboStux's own status page (status.robo.st) as plain links, which needs GitHup v1.9.0 or newer
+
 ## v1.0.1
 
 ### Removed

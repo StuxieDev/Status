@@ -66,10 +66,13 @@ groups:
         description: The StuxieDev Archives, on its second domain
 
   - name: Related
-    description: Projects with their own status page.
-    monitors:
+    description: Related projects. These are plain links, not monitored here.
+    links:
       - name: RoboStux
-        url: https://status.robo.st/
+        url: https://robo.st
+        description: The RoboStux website
+      - name: RoboStux Status
+        url: https://status.robo.st
         description: RoboStux's own status page, which monitors the bot and its services
 
 incidents:

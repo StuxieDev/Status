@@ -40,9 +40,9 @@ Every 5 minutes (when GitHub runs the schedule late, a run checks up to 4 times,
 - **StuxieDev** and the **StuxieDev media CDN**, at the top of the page
 - **Projects:** the projects hub (projects.stuxie.dev), TIGHC, TS4RLS and TWRAR
 - **StuxieDev Archives:** archives.stuxie.dev and archives.stuxiedev.com
-- **Related:** [RoboStux](https://status.robo.st), which has its own status page, so it is monitored through that
+- **Related:** links to [RoboStux](https://robo.st) and [its own status page](https://status.robo.st). They are plain links, not monitored here, and are left out of the table above
 
-To add a site, add a monitor to the right group there (or a new group).
+To add a site, add a monitor to the right group there (or a new group). A group can also hold `links:` instead of monitors, for sites that should be listed but not checked.
 
 When a site goes down, GitHup opens an Issue on this repository (labelled `githup`,
 `incident`, `status` and the monitor's slug) and closes it with the downtime when it recovers.
