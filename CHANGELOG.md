@@ -3,6 +3,12 @@
 All notable changes to StuxieDev's status page (status.stuxie.dev) are documented here. It
 follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.0.1
+
+### Removed
+
+- The archives.ljdr.uk and archives.ridgwell.network monitors: they're the Ridgwell-branded copies of the Archives, so the StuxieDev status page now checks only archives.stuxie.dev and archives.stuxiedev.com
+
 ## v1.0.0
 
 ### Added

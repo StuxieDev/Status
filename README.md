@@ -30,8 +30,6 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 | Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 248 ms |
 | StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 548 ms |
 | StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 100.00% | 100.00% | 674 ms |
-| StuxieDev Archives | [archives.ljdr.uk](https://archives.ljdr.uk/) | Degraded | 100.00% | 100.00% | 100.00% | 2415 ms |
-| StuxieDev Archives | [archives.ridgwell.network](https://archives.ridgwell.network/) | Degraded | 100.00% | 100.00% | 100.00% | 2459 ms |
 | Related | [RoboStux](https://status.robo.st/) | Up | 100.00% | 100.00% | 100.00% | 298 ms |
 <!-- githup:end -->
 
@@ -41,7 +39,7 @@ Every 5 minutes (when GitHub runs the schedule late, a run checks up to 4 times,
 
 - **StuxieDev** and the **StuxieDev media CDN**, at the top of the page
 - **Projects:** the projects hub (projects.stuxie.dev), TIGHC, TS4RLS and TWRAR
-- **StuxieDev Archives:** archives.stuxie.dev, archives.stuxiedev.com, archives.ljdr.uk and archives.ridgwell.network
+- **StuxieDev Archives:** archives.stuxie.dev and archives.stuxiedev.com
 - **Related:** [RoboStux](https://status.robo.st), which has its own status page, so it is monitored through that
 
 To add a site, add a monitor to the right group there (or a new group).
