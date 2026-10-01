@@ -1,0 +1,82 @@
+# StuxieDev Status: https://status.stuxie.dev
+# Checked every 5 minutes by .github/workflows/status.yml, using GitHup:
+# https://github.com/StuxGroup/GitHup
+site:
+  name: StuxieDev Status
+  description: Live status of StuxieDev's websites and projects, checked every 5 minutes.
+  logo: https://global.media.stuxie.dev/logo.png
+  favicon: https://global.media.stuxie.dev/icon.png
+  accent: "#9b4f96"
+  url: https://status.stuxie.dev/
+  footer_links:
+    - label: StuxieDev
+      url: https://stuxie.dev/
+    - label: Report a problem
+      url: https://github.com/StuxieDev/Status/issues/new
+
+legal:
+  operator: StuxieDev
+  company: "StuxieDev is an independent project of Leo Ridgwell, operating as StuxieDev. It is not operated by any company or organization."
+  contact: legal@stuxie.dev
+  host: GitHub Pages
+  effective: 1 October 2026
+
+defaults:
+  timeout: 15
+  retries: 2
+  max_response_time: 3000
+
+# Ungrouped monitors are listed first.
+monitors:
+  - name: StuxieDev
+    url: https://stuxie.dev/
+    description: The StuxieDev website
+    max_response_time: 8000   # a WordPress site that answers in about 4 seconds
+  - name: StuxieDev Media CDN
+    url: https://global.media.stuxie.dev/icon.png
+    description: Shared logos and images used across every StuxieDev site
+
+# Monitors are grouped into sections on the page, each with a combined status.
+# Slugs come from the names, so moving a monitor between groups keeps its history.
+groups:
+  - name: Projects
+    description: StuxieDev's project hub and its game mod sites.
+    monitors:
+      - name: Projects
+        url: https://projects.stuxie.dev/
+        description: Everything StuxieDev builds, in one place
+      - name: TIGHC
+        url: https://tighc.stuxie.dev/
+        description: The TIGHC website
+      - name: TS4RLS
+        url: https://ts4rls.stuxie.dev/
+        description: The TS4RLS website
+      - name: TWRAR
+        url: https://twrar.stuxie.dev/
+        description: The TWRAR website
+
+  - name: StuxieDev Archives
+    description: A stable frame around StuxieDev's retired sites, reachable on four domains.
+    monitors:
+      - name: archives.stuxie.dev
+        url: https://archives.stuxie.dev/
+        description: The StuxieDev Archives
+      - name: archives.stuxiedev.com
+        url: https://archives.stuxiedev.com/
+        description: The StuxieDev Archives, on its second domain
+      - name: archives.ljdr.uk
+        url: https://archives.ljdr.uk/
+        description: The Ridgwell Archives, served by the same site
+      - name: archives.ridgwell.network
+        url: https://archives.ridgwell.network/
+        description: The Ridgwell Archives, on its second domain
+
+  - name: Related
+    description: Projects with their own status page.
+    monitors:
+      - name: RoboStux
+        url: https://status.robo.st/
+        description: RoboStux's own status page, which monitors the bot and its services
+
+incidents:
+  labels: [status]
