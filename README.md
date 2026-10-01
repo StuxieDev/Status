@@ -18,7 +18,21 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 <!-- githup:start -->
 <!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
 
-The first check has not run yet. See the [live status page](https://status.stuxie.dev/).
+**No data yet** · [Live status page](https://status.stuxie.dev/)
+
+| Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
+| ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
+| | [StuxieDev](https://stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
+| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | No data | n/a | n/a | n/a | n/a |
+| Projects | [Projects](https://projects.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
+| Projects | [TIGHC](https://tighc.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
+| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
+| Projects | [TWRAR](https://twrar.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
+| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
+| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | No data | n/a | n/a | n/a | n/a |
+| StuxieDev Archives | [archives.ljdr.uk](https://archives.ljdr.uk/) | No data | n/a | n/a | n/a | n/a |
+| StuxieDev Archives | [archives.ridgwell.network](https://archives.ridgwell.network/) | No data | n/a | n/a | n/a | n/a |
+| Related | [RoboStux](https://status.robo.st/) | No data | n/a | n/a | n/a | n/a |
 <!-- githup:end -->
 
 ## What's monitored
