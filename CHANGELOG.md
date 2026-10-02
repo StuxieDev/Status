@@ -3,6 +3,12 @@
 All notable changes to StuxieDev's status page (status.stuxie.dev) are documented here. It
 follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.1.0
+
+### Added
+
+- SNAIRK (snairk.stuxie.dev) is monitored, in the Projects group
+
 ## v1.0.3
 
 ### Changed

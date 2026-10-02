@@ -39,7 +39,7 @@ monitors:
 # Slugs come from the names, so moving a monitor between groups keeps its history.
 groups:
   - name: Projects
-    description: StuxieDev's project hub and its game mod sites.
+    description: StuxieDev's project hub and its project sites.
     monitors:
       - name: Projects
         url: https://projects.stuxie.dev/
@@ -53,6 +53,9 @@ groups:
       - name: TWRAR
         url: https://twrar.stuxie.dev/
         description: The TWRAR website
+      - name: SNAIRK
+        url: https://snairk.stuxie.dev/
+        description: The SNAIRK website
 
   - name: StuxieDev Archives
     description: A stable frame around StuxieDev's retired sites, reachable on four domains.
