@@ -22,15 +22,15 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| | [StuxieDev](https://stuxie.dev/) | Up | 100.00% | 99.43% | 99.43% | 10951 ms |
-| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 265 ms |
-| Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 230 ms |
-| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 213 ms |
-| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 207 ms |
-| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 232 ms |
-| Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 250 ms |
-| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 1031 ms |
-| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 100.00% | 100.00% | 464 ms |
+| | [StuxieDev](https://stuxie.dev/) | Up | 100.00% | 99.45% | 99.45% | 10865 ms |
+| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 260 ms |
+| Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 231 ms |
+| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 210 ms |
+| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 203 ms |
+| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 248 ms |
+| Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 240 ms |
+| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 953 ms |
+| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 100.00% | 100.00% | 488 ms |
 <!-- githup:end -->
 
 ## What's monitored
