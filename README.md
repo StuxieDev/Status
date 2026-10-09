@@ -18,19 +18,19 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 <!-- githup:start -->
 <!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
 
-**Degraded performance** · [Live status page](https://status.stuxie.dev/)
+**All systems operational** · [Live status page](https://status.stuxie.dev/)
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| | [StuxieDev](https://stuxie.dev/) | Degraded | 90.00% | 97.39% | 97.44% | 10676 ms |
-| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 337 ms |
-| Projects | [Projects](https://projects.stuxie.dev/) | Up | 90.00% | 98.26% | 98.54% | 211 ms |
-| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 90.00% | 97.82% | 98.17% | 247 ms |
-| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 90.00% | 97.82% | 98.17% | 233 ms |
-| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 90.00% | 97.39% | 97.81% | 234 ms |
-| Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 90.00% | 97.39% | 97.39% | 260 ms |
-| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 90.00% | 97.39% | 97.81% | 690 ms |
-| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 100.00% | 100.00% | 529 ms |
+| | [StuxieDev](https://stuxie.dev/) | Up | 100.00% | 97.34% | 97.48% | 10466 ms |
+| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 362 ms |
+| Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 98.23% | 98.56% | 207 ms |
+| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 97.78% | 98.20% | 241 ms |
+| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 97.78% | 98.20% | 232 ms |
+| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 97.34% | 97.84% | 232 ms |
+| Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 100.00% | 97.34% | 97.43% | 258 ms |
+| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 97.34% | 97.84% | 675 ms |
+| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 100.00% | 100.00% | 504 ms |
 <!-- githup:end -->
 
 ## What's monitored
