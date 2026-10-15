@@ -22,15 +22,15 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| | [StuxieDev](https://stuxie.dev/) | Up | 100.00% | 97.08% | 98.25% | 11042 ms |
+| | [StuxieDev](https://stuxie.dev/) | Up | 100.00% | 97.16% | 98.29% | 11278 ms |
 | | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 309 ms |
-| Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 98.33% | 99.12% | 232 ms |
-| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 97.91% | 98.90% | 231 ms |
-| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 97.91% | 98.90% | 229 ms |
-| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 97.50% | 98.68% | 232 ms |
-| Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 100.00% | 97.50% | 98.55% | 247 ms |
-| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 97.50% | 98.68% | 572 ms |
-| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 100.00% | 100.00% | 497 ms |
+| Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 98.38% | 99.14% | 227 ms |
+| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 97.97% | 98.93% | 229 ms |
+| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 97.97% | 98.93% | 227 ms |
+| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 97.57% | 98.72% | 232 ms |
+| Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 100.00% | 97.57% | 98.59% | 252 ms |
+| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 97.57% | 98.72% | 575 ms |
+| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 100.00% | 100.00% | 481 ms |
 <!-- githup:end -->
 
 ## What's monitored
