@@ -1,7 +1,7 @@
 {
  "version": 1,
  "generator": "GitHup",
- "updated": 1792067152,
+ "updated": 1792070529,
  "name": "StuxieDev Status",
  "status": "up",
  "monitors": [
@@ -11,8 +11,8 @@
    "url": "https://stuxie.dev/",
    "status": "up",
    "code": 200,
-   "ms": 8522,
-   "checked_at": 1792067126,
+   "ms": 8230,
+   "checked_at": 1792070503,
    "last_change": {
     "at": 1792049498,
     "from": "degraded",
@@ -20,23 +20,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 97.131,
-    "30d": 98.312,
-    "90d": 98.312,
-    "all": 98.312
+    "7d": 97.142,
+    "30d": 98.315,
+    "90d": 98.315,
+    "all": 98.315
    },
    "avg_ms": {
-    "24h": 11267,
-    "7d": 10915,
-    "30d": 10886,
-    "90d": 10886,
-    "all": 10886
+    "24h": 11248,
+    "7d": 10904,
+    "30d": 10881,
+    "90d": 10881,
+    "all": 10881
    },
    "totals": {
-    "checks": 474,
-    "available": 466,
-    "ms_sum": 5073024,
-    "ms_n": 466,
+    "checks": 475,
+    "available": 467,
+    "ms_sum": 5081254,
+    "ms_n": 467,
     "first": 1790860658
    },
    "incident": null
@@ -47,8 +47,8 @@
    "url": "https://global.media.stuxie.dev/icon.png",
    "status": "up",
    "code": 200,
-   "ms": 172,
-   "checked_at": 1792067126,
+   "ms": 419,
+   "checked_at": 1792070503,
    "last_change": {
     "at": 1790860658,
     "from": null,
@@ -62,17 +62,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 305,
+    "24h": 307,
     "7d": 405,
     "30d": 355,
     "90d": 355,
     "all": 355
    },
    "totals": {
-    "checks": 474,
-    "available": 474,
-    "ms_sum": 168131,
-    "ms_n": 474,
+    "checks": 475,
+    "available": 475,
+    "ms_sum": 168550,
+    "ms_n": 475,
     "first": 1790860658
    },
    "incident": null
@@ -83,8 +83,8 @@
    "url": "https://projects.stuxie.dev/",
    "status": "up",
    "code": 200,
-   "ms": 88,
-   "checked_at": 1792067126,
+   "ms": 203,
+   "checked_at": 1792070503,
    "last_change": {
     "at": 1791485469,
     "from": "down",
@@ -92,23 +92,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 98.36,
-    "30d": 99.156,
-    "90d": 99.156,
-    "all": 99.156
+    "7d": 98.367,
+    "30d": 99.157,
+    "90d": 99.157,
+    "all": 99.157
    },
    "avg_ms": {
-    "24h": 223,
+    "24h": 224,
     "7d": 227,
     "30d": 228,
     "90d": 228,
     "all": 228
    },
    "totals": {
-    "checks": 474,
-    "available": 470,
-    "ms_sum": 107085,
-    "ms_n": 470,
+    "checks": 475,
+    "available": 471,
+    "ms_sum": 107288,
+    "ms_n": 471,
     "first": 1790860658
    },
    "incident": null
@@ -119,8 +119,8 @@
    "url": "https://tighc.stuxie.dev/",
    "status": "up",
    "code": 200,
-   "ms": 125,
-   "checked_at": 1792067126,
+   "ms": 176,
+   "checked_at": 1792070503,
    "last_change": {
     "at": 1791485469,
     "from": "down",
@@ -128,23 +128,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 97.95,
-    "30d": 98.945,
-    "90d": 98.945,
-    "all": 98.945
+    "7d": 97.959,
+    "30d": 98.947,
+    "90d": 98.947,
+    "all": 98.947
    },
    "avg_ms": {
-    "24h": 226,
+    "24h": 224,
     "7d": 235,
     "30d": 234,
     "90d": 234,
     "all": 234
    },
    "totals": {
-    "checks": 474,
-    "available": 469,
-    "ms_sum": 109845,
-    "ms_n": 469,
+    "checks": 475,
+    "available": 470,
+    "ms_sum": 110021,
+    "ms_n": 470,
     "first": 1790860658
    },
    "incident": null
@@ -155,8 +155,8 @@
    "url": "https://ts4rls.stuxie.dev/",
    "status": "up",
    "code": 200,
-   "ms": 159,
-   "checked_at": 1792067126,
+   "ms": 232,
+   "checked_at": 1792070503,
    "last_change": {
     "at": 1791485469,
     "from": "down",
@@ -164,23 +164,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 97.95,
-    "30d": 98.945,
-    "90d": 98.945,
-    "all": 98.945
+    "7d": 97.959,
+    "30d": 98.947,
+    "90d": 98.947,
+    "all": 98.947
    },
    "avg_ms": {
-    "24h": 227,
+    "24h": 226,
     "7d": 231,
     "30d": 232,
     "90d": 232,
     "all": 232
    },
    "totals": {
-    "checks": 474,
-    "available": 469,
-    "ms_sum": 108809,
-    "ms_n": 469,
+    "checks": 475,
+    "available": 470,
+    "ms_sum": 109041,
+    "ms_n": 470,
     "first": 1790860658
    },
    "incident": null
@@ -191,8 +191,8 @@
    "url": "https://twrar.stuxie.dev/",
    "status": "up",
    "code": 200,
-   "ms": 97,
-   "checked_at": 1792067126,
+   "ms": 172,
+   "checked_at": 1792070503,
    "last_change": {
     "at": 1791485469,
     "from": "down",
@@ -200,23 +200,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 97.54,
-    "30d": 98.734,
-    "90d": 98.734,
-    "all": 98.734
+    "7d": 97.551,
+    "30d": 98.736,
+    "90d": 98.736,
+    "all": 98.736
    },
    "avg_ms": {
-    "24h": 228,
+    "24h": 226,
     "7d": 247,
     "30d": 240,
     "90d": 240,
     "all": 240
    },
    "totals": {
-    "checks": 474,
-    "available": 468,
-    "ms_sum": 112174,
-    "ms_n": 468,
+    "checks": 475,
+    "available": 469,
+    "ms_sum": 112346,
+    "ms_n": 469,
     "first": 1790860658
    },
    "incident": null
@@ -227,8 +227,8 @@
    "url": "https://snairk.stuxie.dev/",
    "status": "up",
    "code": 200,
-   "ms": 171,
-   "checked_at": 1792067126,
+   "ms": 232,
+   "checked_at": 1792070503,
    "last_change": {
     "at": 1791485469,
     "from": "down",
@@ -236,23 +236,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 97.54,
-    "30d": 98.604,
-    "90d": 98.604,
-    "all": 98.604
+    "7d": 97.551,
+    "30d": 98.607,
+    "90d": 98.607,
+    "all": 98.607
    },
    "avg_ms": {
-    "24h": 250,
+    "24h": 252,
     "7d": 254,
     "30d": 246,
     "90d": 246,
     "all": 246
    },
    "totals": {
-    "checks": 430,
-    "available": 424,
-    "ms_sum": 104232,
-    "ms_n": 424,
+    "checks": 431,
+    "available": 425,
+    "ms_sum": 104464,
+    "ms_n": 425,
     "first": 1790959854
    },
    "incident": null
@@ -263,8 +263,8 @@
    "url": "https://archives.stuxie.dev/",
    "status": "up",
    "code": 200,
-   "ms": 420,
-   "checked_at": 1792067126,
+   "ms": 457,
+   "checked_at": 1792070503,
    "last_change": {
     "at": 1791485469,
     "from": "down",
@@ -272,23 +272,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 97.54,
-    "30d": 98.734,
-    "90d": 98.734,
-    "all": 98.734
+    "7d": 97.551,
+    "30d": 98.736,
+    "90d": 98.736,
+    "all": 98.736
    },
    "avg_ms": {
-    "24h": 580,
-    "7d": 743,
+    "24h": 576,
+    "7d": 742,
     "30d": 701,
     "90d": 701,
     "all": 701
    },
    "totals": {
-    "checks": 474,
-    "available": 468,
-    "ms_sum": 328191,
-    "ms_n": 468,
+    "checks": 475,
+    "available": 469,
+    "ms_sum": 328648,
+    "ms_n": 469,
     "first": 1790860658
    },
    "incident": null
@@ -299,8 +299,8 @@
    "url": "https://archives.stuxiedev.com/",
    "status": "up",
    "code": 200,
-   "ms": 435,
-   "checked_at": 1792067126,
+   "ms": 432,
+   "checked_at": 1792070504,
    "last_change": {
     "at": 1790860658,
     "from": null,
@@ -314,17 +314,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 481,
-    "7d": 500,
-    "30d": 523,
-    "90d": 523,
-    "all": 523
+    "24h": 477,
+    "7d": 499,
+    "30d": 522,
+    "90d": 522,
+    "all": 522
    },
    "totals": {
-    "checks": 474,
-    "available": 474,
-    "ms_sum": 247734,
-    "ms_n": 474,
+    "checks": 475,
+    "available": 475,
+    "ms_sum": 248166,
+    "ms_n": 475,
     "first": 1790860658
    },
    "incident": null
