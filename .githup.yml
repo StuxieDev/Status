@@ -34,6 +34,9 @@ monitors:
   - name: StuxieDev Media CDN
     url: https://global.media.stuxie.dev/icon.png
     description: Shared logos and images used across every StuxieDev site
+  - name: StuxieDev Links
+    url: https://links.stuxie.dev/
+    description: Every place to find StuxieDev, on one screen
 
 # Monitors are grouped into sections on the page, each with a combined status.
 # Slugs come from the names, so moving a monitor between groups keeps its history.
