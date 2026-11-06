@@ -5,6 +5,14 @@ follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.06
+
+### Changed
+
+- **The status page's logo and favicon are StuxieDev Status's own badge icon** (the StuxieDev avatar with a heartbeat
+  badge, as on projects.stuxie.dev) rather than the plain StuxieDev logo, and the README's header matches, now titled
+  StuxieDev Status.
+
 ## v26.10.23
 
 ### Added
