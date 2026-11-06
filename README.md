@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://global.media.stuxie.dev/logo.png" height="100" alt="StuxieDev Logo">
+  <img src="https://projects.stuxie.dev/assets/img/projects/stuxiedev-status-icon.png" height="100" alt="StuxieDev Status icon">
 </p>
 
-# Status
+# StuxieDev Status
 
 ### *Live status of StuxieDev's websites and projects, powered by [GitHup](https://githup.stux.group).*
 
