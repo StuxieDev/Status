@@ -24,6 +24,7 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
 | | [StuxieDev](https://stuxie.dev/) | Up | 100.00% | 96.84% | 94.66% | 571 ms |
 | | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 260 ms |
+| | [StuxieDev Links](https://links.stuxie.dev/) | No data | n/a | n/a | n/a | n/a |
 | Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 100.00% | 99.64% | 210 ms |
 | Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 100.00% | 99.55% | 177 ms |
 | Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 100.00% | 99.55% | 180 ms |
