@@ -37,7 +37,7 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 Every 5 minutes (when GitHub runs the schedule late, a run checks up to 4 times, 5 minutes apart, to fill the gap), GitHup checks each monitor in [`.githup.yml`](.githup.yml):
 
-- **StuxieDev** and the **StuxieDev media CDN**, at the top of the page
+- **StuxieDev**, the **StuxieDev media CDN** and **StuxieDev Links**, at the top of the page
 - **Projects:** the projects hub (projects.stuxie.dev), TIGHC, TS4RLS, TWRAR and SNAIRK
 - **StuxieDev Archives:** archives.stuxie.dev and archives.stuxiedev.com
 - **Related:** links to [RoboStux](https://robo.st) and [its own status page](https://status.robo.st). They are plain links, not monitored here, and are left out of the table above
