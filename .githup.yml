@@ -8,6 +8,9 @@ site:
   favicon: https://projects.stuxie.dev/assets/img/projects/stuxiedev-status-icon.png
   accent: "#9b4f96"
   url: https://status.stuxie.dev/
+  # StuxieDev's pixel kat (kat.stuxie.dev) follows the pointer on every page, with a "Your kat" switcher in the footer,
+  # as on stuxie.dev: the bi kat by default.
+  kat: true
   footer_links:
     - label: StuxieDev
       url: https://stuxie.dev/
