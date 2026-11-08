@@ -1,13 +1,16 @@
 # StuxieDev Status: https://status.stuxie.dev
-# Checked every 5 minutes by .github/workflows/status.yml, using GitHup:
+# Asks GitHub for a check every 5 minutes (best-effort; GitHub often runs it less often) - .github/workflows/status.yml, using GitHup:
 # https://github.com/StuxGroup/GitHup
 site:
   name: StuxieDev Status
-  description: Live status of StuxieDev's websites and projects, checked every 5 minutes.
+  description: Live status of StuxieDev's websites and projects, checked regularly.
   logo: https://projects.stuxie.dev/assets/img/projects/stuxiedev-status-icon.png
   favicon: https://projects.stuxie.dev/assets/img/projects/stuxiedev-status-icon.png
   accent: "#9b4f96"
   url: https://status.stuxie.dev/
+  # StuxieDev's pixel kat (kat.stuxie.dev) follows the pointer on every page, with a "Your kat" switcher in the footer,
+  # as on stuxie.dev: the bi kat by default.
+  kat: true
   footer_links:
     - label: StuxieDev
       url: https://stuxie.dev/

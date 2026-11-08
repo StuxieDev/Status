@@ -4,6 +4,23 @@ All notable changes to StuxieDev's status page (status.stuxie.dev) are documente
 v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`…
 for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.08-1
+
+### Changed
+
+- **"Checked regularly", not "every 5 minutes":** GitHub runs the 5-minute schedule best-effort, often far less often,
+  so the page's description and the README no longer promise 5 minutes. The status page itself shows the real check
+  rhythm it measured (GitHup v26.11.08). The schedule is unchanged
+
+## v26.11.08
+
+### Added
+
+- **The bi kat:** the pixel kat from [kat.stuxie.dev](https://kat.stuxie.dev) follows your pointer around every page,
+  as on stuxie.dev and projects.stuxie.dev, and "Your kat" in the footer swaps it for one of the Ridgwell cats (Olly,
+  Lily, Poppy or Dougal) or turns it off. It's GitHup's `site.kat` (GitHup v26.11.08), and the generated Privacy and
+  Cookies pages say so
+
 ## v26.11.06-2
 
 ### Added
