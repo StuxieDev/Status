@@ -40,6 +40,10 @@ monitors:
   - name: StuxieDev Links
     url: https://links.stuxie.dev/
     description: Every place to find StuxieDev, on one screen
+  # The kat script other sites load (kat.stuxie.dev); its slug, get-your-own-kat, is the Projects card's data-monitor.
+  - name: Get your own Kat
+    url: https://kat.stuxie.dev/kat.js
+    description: StuxieDev's pixel kat, for any site, at kat.stuxie.dev
 
 # Monitors are grouped into sections on the page, each with a combined status.
 # Slugs come from the names, so moving a monitor between groups keeps its history.
