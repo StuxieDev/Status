@@ -4,6 +4,15 @@ All notable changes to StuxieDev's status page (status.stuxie.dev) are documente
 v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`…
 for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.10-1
+
+### Changed
+
+- **The status page's icons are StuxieDev's own**: `/favicon.ico`, the phone home-screen icon and the web manifest's
+  icons are now the bi-ring avatar with a status jewel, as on every StuxieDev project, instead of GitHup's default
+  heartbeat square. They live in `icons/` and `.githup.yml` points GitHup at them with `site.icons`, so they're
+  served from status.stuxie.dev itself.
+
 ## v26.11.10
 
 ### Added

@@ -5,7 +5,9 @@ site:
   name: StuxieDev Status
   description: Live status of StuxieDev's websites and projects, checked regularly.
   logo: https://projects.stuxie.dev/assets/img/projects/stuxiedev-status-icon.png
-  favicon: https://projects.stuxie.dev/assets/img/projects/stuxiedev-status-icon.png
+  # The icons (favicon.ico, apple-touch-icon.png, icon-192/512.png, icon-maskable-512.png) come from icons/: the bi-ring
+  # avatar with a status jewel, as on every StuxieDev project. GitHup copies them to the site root on every build.
+  icons: icons
   accent: "#9b4f96"
   url: https://status.stuxie.dev/
   # StuxieDev's pixel kat (kat.stuxie.dev) follows the pointer on every page, with a "Your kat" switcher in the footer,
