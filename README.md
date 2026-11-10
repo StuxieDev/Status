@@ -55,6 +55,8 @@ To announce planned maintenance, open an Issue yourself with the `githup` and `i
 - **`.github/workflows/status.yml`** runs a GitHup `check` on a 5-minute schedule, which GitHub runs best-effort (with `fill-gaps`, up to 4 checks when a run starts late) and commits the
   results to `data/` as `github-actions[bot]`. When a status changes, hourly, and on pushes, it
   builds the GitHup status page into `_site` (with `site-dir`), and deploys it with `actions/deploy-pages`.
+- **`site.icons: icons` in `.githup.yml`** makes GitHup use the icons in `icons/` (the bi-ring avatar with a status
+  jewel) for `/favicon.ico`, the apple-touch-icon and the web manifest, instead of its default heartbeat.
 - **`legal:` in `.githup.yml`** makes GitHup generate the **Boring Legal Stuff** hub at `/legal/`
   with its six sub-pages, a themed `404.html`, a `/sitemap/` page, `sitemap.xml` and `robots.txt`
   (the base URL is `site.url`). Nothing is hand-made, and the footer shows only
