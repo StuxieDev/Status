@@ -4,6 +4,15 @@ All notable changes to StuxieDev's status page (status.stuxie.dev) are documente
 v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`…
 for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.15-2
+
+### Changed
+
+- **The workflow's 5-minute schedule comment says what really happens.** It used to say GitHub "may run it a little
+  late"; it now says the workflow asks GitHub for a check every 5 minutes and that GitHub, which runs schedules
+  best-effort, often runs it less often (the status page measures about one check every 45 minutes). Only the comment
+  changed: the schedules are the same.
+
 ## v26.11.15-1
 
 ### Changed
