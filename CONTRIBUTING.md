@@ -13,8 +13,12 @@ status page software belong in [StuxGroup/GitHup](https://github.com/StuxGroup/G
 You need Python 3.11+ and nothing else.
 
 ```bash
-./dev-server.sh [--no-dev-mode] [port]   # or dev-server.bat on Windows
+./dev-server.sh [--no-dev-mode] [--lan] [port]   # or dev-server.bat on Windows
 ```
+
+Pass `--lan` to open it on a phone or another device on your local network: the server then listens on every interface
+instead of 127.0.0.1 only, and prints the addresses to open (usually the 192.168.x.x one; allow Python through the
+firewall if asked).
 
 ## Project conventions
 

@@ -71,12 +71,15 @@ To announce planned maintenance, open an Issue yourself with the `githup` and `i
 ```bash
 ./dev-server.sh                 # or dev-server.bat on Windows; add a port as the last argument
 ./dev-server.sh --no-dev-mode   # production rendering
+./dev-server.sh --lan           # also open it from a phone on your local network
 ```
 
 `dev-server` generates 90 days of example data, builds the status page into `.dev/public` with
 `DEV_MODE` on, with its legal pages, 404 and sitemap, and serves it at
 `http://127.0.0.1:8000`. It uses GitHup from `$GITHUP_PATH`, a sibling `../GitHup` checkout, or
-a fresh clone in `.dev/GitHup`.
+a fresh clone in `.dev/GitHup`. Pass `--lan` to open it on a phone or another device on your local network: the server
+then listens on every interface instead of 127.0.0.1 only, and prints the addresses to open (usually the 192.168.x.x
+one; allow Python through the firewall if asked).
 
 ## Hosting
 
