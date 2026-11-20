@@ -18,21 +18,21 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 <!-- githup:start -->
 <!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
 
-**All systems operational** · [Live status page](https://status.stuxie.dev/)
+**Partial outage** · [Live status page](https://status.stuxie.dev/)
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| | [StuxieDev](https://stuxie.dev/) | Up | 100.00% | 99.44% | 95.23% | 871 ms |
-| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 186 ms |
-| | [StuxieDev Links](https://links.stuxie.dev/) | Up | 100.00% | 99.44% | 99.74% | 476 ms |
-| | [Get your own Kat](https://kat.stuxie.dev/kat.js) | Up | 100.00% | 100.00% | 99.63% | 365 ms |
-| Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 170 ms |
-| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 148 ms |
-| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 136 ms |
-| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 131 ms |
-| Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 126 ms |
-| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 99.44% | 99.68% | 616 ms |
-| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 100.00% | 100.00% | 611 ms |
+| | [StuxieDev](https://stuxie.dev/) | **Down** | 85.71% | 97.22% | 94.81% | 847 ms |
+| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 202 ms |
+| | [StuxieDev Links](https://links.stuxie.dev/) | **Down** | 85.71% | 97.22% | 98.73% | 439 ms |
+| | [Get your own Kat](https://kat.stuxie.dev/kat.js) | **Down** | 85.71% | 97.77% | 98.19% | 388 ms |
+| Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 175 ms |
+| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 152 ms |
+| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 145 ms |
+| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 142 ms |
+| Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 132 ms |
+| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | **Down** | 85.71% | 97.22% | 99.27% | 628 ms |
+| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | **Down** | 85.71% | 97.77% | 99.58% | 618 ms |
 <!-- githup:end -->
 
 ## What's monitored
