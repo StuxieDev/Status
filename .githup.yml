@@ -42,6 +42,10 @@ monitors:
   - name: StuxieDev Links
     url: https://links.stuxie.dev/
     description: Every place to find StuxieDev, on one screen
+  # social.stuxie.dev redirects to @stuxiedev's profile; its slug, stuxiedev-social, is the Projects card's data-monitor.
+  - name: StuxieDev Social
+    url: https://social.stuxie.dev/
+    description: StuxieDev's Fediverse server, home of @stuxiedev@stuxie.dev
   # The kat script other sites load (kat.stuxie.dev); its slug, get-your-own-kat, is the Projects card's data-monitor.
   - name: Get your own Kat
     url: https://kat.stuxie.dev/kat.js
