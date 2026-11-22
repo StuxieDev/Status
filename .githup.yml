@@ -72,6 +72,10 @@ groups:
       - name: SNAIRK
         url: https://snairk.stuxie.dev/
         description: The SNAIRK website
+      # Its slug, fluxer-music, is the Projects card's data-monitor.
+      - name: Fluxer Music
+        url: https://fluxer.music/
+        description: The Fluxer Music community's website
 
   - name: StuxieDev Archives
     description: A stable frame around StuxieDev's retired sites, reachable on four domains.
