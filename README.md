@@ -22,19 +22,19 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| | [StuxieDev](https://stuxie.dev/) | Up | 100.00% | 97.15% | 95.19% | 687 ms |
-| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 221 ms |
-| | [StuxieDev Links](https://links.stuxie.dev/) | Up | 100.00% | 97.15% | 98.86% | 374 ms |
-| | [StuxieDev Social](https://social.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 854 ms |
-| | [Get your own Kat](https://kat.stuxie.dev/kat.js) | Up | 100.00% | 97.72% | 98.44% | 158 ms |
-| Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 162 ms |
-| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 148 ms |
-| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 132 ms |
-| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 127 ms |
+| | [StuxieDev](https://stuxie.dev/) | Up | 100.00% | 97.22% | 95.21% | 692 ms |
+| | [StuxieDev Media CDN](https://global.media.stuxie.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 220 ms |
+| | [StuxieDev Links](https://links.stuxie.dev/) | Up | 100.00% | 97.22% | 98.87% | 373 ms |
+| | [StuxieDev Social](https://social.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 900 ms |
+| | [Get your own Kat](https://kat.stuxie.dev/kat.js) | Up | 100.00% | 97.77% | 98.46% | 159 ms |
+| Projects | [Projects](https://projects.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 159 ms |
+| Projects | [TIGHC](https://tighc.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 149 ms |
+| Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 133 ms |
+| Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 137 ms |
 | Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 127 ms |
-| Projects | [Fluxer Music](https://fluxer.music/) | No data | n/a | n/a | n/a | n/a |
-| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 97.15% | 99.35% | 518 ms |
-| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 97.72% | 99.57% | 612 ms |
+| Projects | [Fluxer Music](https://fluxer.music/) | Up | 100.00% | 100.00% | 100.00% | 660 ms |
+| StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 97.22% | 99.36% | 529 ms |
+| StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 97.77% | 99.57% | 626 ms |
 <!-- githup:end -->
 
 ## What's monitored
