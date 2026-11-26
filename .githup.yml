@@ -82,6 +82,11 @@ groups:
       - name: Fluxer.Now
         url: https://fluxer-now.stuxie.dev/api/health
         description: Guides for moving from Discord to Fluxer, built by StuxieDev for FluxerHost
+      # Checks /api/health, which answers 200 {"status":"ok"} in every mode, coming soon included. Its slug, fluxer-life,
+      # is ready for the Projects card's data-monitor once the site is live.
+      - name: Fluxer.Life
+        url: https://fluxer.life/api/health
+        description: A joke life-status page for Fluxer users (coming soon)
 
   - name: StuxieDev Archives
     description: A stable frame around StuxieDev's retired sites, reachable on four domains.
