@@ -32,6 +32,7 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 | Projects | [TS4RLS](https://ts4rls.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 132 ms |
 | Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 127 ms |
 | Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 127 ms |
+| Projects | [Fluxer Music](https://fluxer.music/) | No data | n/a | n/a | n/a | n/a |
 | StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 97.15% | 99.35% | 518 ms |
 | StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 97.72% | 99.57% | 612 ms |
 <!-- githup:end -->
@@ -41,7 +42,7 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 Regularly, GitHup checks each monitor in [`.githup.yml`](.githup.yml). The workflow asks GitHub for a check every 5 minutes, but GitHub runs scheduled workflows best-effort and often less often, so the status page shows the real rhythm it measured ("checked about every … (last 24 h)"). When a run starts late, it checks up to 4 times, 5 minutes apart, to fill the gap:
 
 - **StuxieDev**, the **StuxieDev media CDN**, **StuxieDev Links** and **StuxieDev Social**, at the top of the page
-- **Projects:** the projects hub (projects.stuxie.dev), TIGHC, TS4RLS, TWRAR, SNAIRK and Fluxer Music
+- **Projects:** the projects hub (projects.stuxie.dev), TIGHC, TS4RLS, TWRAR, SNAIRK, Fluxer Music and Fluxer.Now
 - **StuxieDev Archives:** archives.stuxie.dev and archives.stuxiedev.com
 - **Related:** links to [RoboStux](https://robo.st) and [its own status page](https://status.robo.st). They are plain links, not monitored here, and are left out of the table above
 
