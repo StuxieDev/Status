@@ -76,6 +76,12 @@ groups:
       - name: Fluxer Music
         url: https://fluxer.music/
         description: The Fluxer Music community's website
+      # Checks /api/health, which answers 200 {"status":"ok"} when the site is running (in any mode). Its slug,
+      # fluxer-now, is the Projects card's data-monitor. The host's bot protection sometimes answers data-centre IPs
+      # (like GitHub's runners) with 401, as for the other stuxiedev.com-hosted sites: that's not an outage.
+      - name: Fluxer.Now
+        url: https://fluxer-now.stuxie.dev/api/health
+        description: Guides for moving from Discord to Fluxer, built by StuxieDev for FluxerHost
 
   - name: StuxieDev Archives
     description: A stable frame around StuxieDev's retired sites, reachable on four domains.
