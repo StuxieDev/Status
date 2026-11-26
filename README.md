@@ -33,6 +33,7 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 | Projects | [TWRAR](https://twrar.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 101 ms |
 | Projects | [SNAIRK](https://snairk.stuxie.dev/) | Up | 100.00% | 100.00% | 100.00% | 115 ms |
 | Projects | [Fluxer Music](https://fluxer.music/) | Up | 100.00% | 100.00% | 100.00% | 781 ms |
+| Projects | [Fluxer.Now](https://fluxer-now.stuxie.dev/api/health) | No data | n/a | n/a | n/a | n/a |
 | StuxieDev Archives | [archives.stuxie.dev](https://archives.stuxie.dev/) | Up | 100.00% | 97.64% | 99.30% | 574 ms |
 | StuxieDev Archives | [archives.stuxiedev.com](https://archives.stuxiedev.com/) | Up | 100.00% | 97.64% | 99.53% | 625 ms |
 <!-- githup:end -->
