@@ -4,6 +4,13 @@ All notable changes to StuxieDev's status page (status.stuxie.dev) are documente
 v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`…
 for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.26-1
+
+### Added
+
+- **Fluxer.Life is monitored**: fluxer.life, an unofficial fan project for the Fluxer chat app, coming soon for now.
+  It's in the Projects group and checks the site's `/api/health`. Its slug is `fluxer-life`.
+
 ## v26.11.26
 
 ### Added
