@@ -43,7 +43,8 @@ Regularly, GitHup checks each monitor in [`.githup.yml`](.githup.yml). The workf
 
 - **StuxieDev**, the **StuxieDev media CDN**, **StuxieDev Links** and **StuxieDev Social**, at the top of the page
 - **Projects:** the projects hub (projects.stuxie.dev), TIGHC, TS4RLS, TWRAR, SNAIRK, Fluxer Music, Fluxer.Now and Fluxer.Life
-- **StuxieDev Archives:** archives.stuxie.dev and archives.stuxiedev.com
+- **StuxieDev Archives:** archives.stuxie.dev and archives.stuxiedev.com, plus the archived RoboStux websites
+  v1.robo.st, v2.robo.st and v3.robo.st
 - **Related:** links to [RoboStux](https://robo.st) and [its own status page](https://status.robo.st). They are plain links, not monitored here, and are left out of the table above
 
 To add a site, add a monitor to the right group there (or a new group). A group can also hold `links:` instead of monitors, for sites that should be listed but not checked.
