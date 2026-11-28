@@ -4,6 +4,13 @@ All notable changes to StuxieDev's status page (status.stuxie.dev) are documente
 v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`…
 for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.28
+
+### Added
+
+- **The archived RoboStux websites are monitored**: v1.robo.st (2018 to 2020, the "under construction" holding page),
+  v2.robo.st (2020 to 2025) and v3.robo.st (2025 to 2026), in the StuxieDev Archives group.
+
 ## v26.11.26-1
 
 ### Added
